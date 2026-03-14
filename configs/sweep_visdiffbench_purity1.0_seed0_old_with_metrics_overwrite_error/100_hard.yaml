@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Men wearing suits"
+  group2: "Men wearing tuxedos"
+  purity: 1.0

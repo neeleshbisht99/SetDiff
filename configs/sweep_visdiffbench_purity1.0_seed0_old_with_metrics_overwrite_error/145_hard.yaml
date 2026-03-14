@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Residential buildings in Art Deco style"
+  group2: "Residential buildings in Brutalist style"
+  purity: 1.0

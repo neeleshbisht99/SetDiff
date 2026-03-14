@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Bonsai trees shaped in cascade style"
+  group2: "Bonsai trees shaped in informal upright style"
+  purity: 1.0

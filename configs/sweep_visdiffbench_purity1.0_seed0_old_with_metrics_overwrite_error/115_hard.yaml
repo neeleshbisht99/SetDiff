@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Fresh sushi with salmon topping"
+  group2: "Fresh sushi with tuna topping"
+  purity: 1.0

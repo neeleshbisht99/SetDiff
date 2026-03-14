@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Poems written in free verse"
+  group2: "Poems written in sonnet form"
+  purity: 1.0

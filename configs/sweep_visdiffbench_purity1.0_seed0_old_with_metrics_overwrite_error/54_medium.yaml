@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Leather shoes on display"
+  group2: "Canvas shoes on display"
+  purity: 1.0

@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Digital clocks on a wall"
+  group2: "Analog clocks on a wall"
+  purity: 1.0

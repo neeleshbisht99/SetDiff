@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "People eating with chopsticks"
+  group2: "People eating with forks"
+  purity: 1.0

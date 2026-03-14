@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Fruits arranged in a still life setting"
+  group2: "Flowers arranged in a still life setting"
+  purity: 1.0

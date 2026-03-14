@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Lace wedding dresses"
+  group2: "Satin wedding dresses"
+  purity: 1.0

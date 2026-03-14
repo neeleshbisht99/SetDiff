@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Handmade quilts on a bed"
+  group2: "Factory-made blankets on a bed"
+  purity: 1.0

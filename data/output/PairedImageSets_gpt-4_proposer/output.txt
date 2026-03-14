@@ -1,0 +1,5 @@
+Metrics
+Dataset acc@1 acc@5 acc@N 
+Easy    0.82   0.98  0.98
+Medium  0.6   0.8  0.8
+Hard    0.56   0.71  0.71

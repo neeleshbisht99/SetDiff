@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Birds with iridescent plumage"
+  group2: "Birds with matte plumage"
+  purity: 1.0

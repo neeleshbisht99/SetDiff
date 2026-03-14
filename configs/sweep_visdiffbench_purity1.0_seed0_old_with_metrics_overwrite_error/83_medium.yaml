@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Shiny metallic cars"
+  group2: "Matte finish cars"
+  purity: 1.0

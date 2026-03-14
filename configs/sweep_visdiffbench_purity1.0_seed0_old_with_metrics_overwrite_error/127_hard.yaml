@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Classic novels from the 19th century"
+  group2: "Modern novels from the 21st century"
+  purity: 1.0

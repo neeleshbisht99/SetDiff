@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Zebra crossings on a street"
+  group2: "Traffic lights on a street"
+  purity: 1.0

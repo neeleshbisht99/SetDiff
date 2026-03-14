@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Alpine lakes in summer"
+  group2: "Alpine lakes in early spring"
+  purity: 1.0

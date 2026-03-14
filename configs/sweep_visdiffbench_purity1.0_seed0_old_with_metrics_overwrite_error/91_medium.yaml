@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Abstract oil paintings with warm colors"
+  group2: "Abstract oil paintings with cool colors"
+  purity: 1.0

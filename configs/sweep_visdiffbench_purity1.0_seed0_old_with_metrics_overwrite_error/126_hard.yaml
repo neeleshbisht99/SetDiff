@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Football players in defensive formation"
+  group2: "Football players in offensive formation"
+  purity: 1.0

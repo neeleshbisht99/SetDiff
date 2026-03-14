@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Merlot wine in a glass"
+  group2: "Cabernet Sauvignon wine in a glass"
+  purity: 1.0

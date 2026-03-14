@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Sunrise over Santorini, Greece"
+  group2: "Sunset over Santorini, Greece"
+  purity: 1.0

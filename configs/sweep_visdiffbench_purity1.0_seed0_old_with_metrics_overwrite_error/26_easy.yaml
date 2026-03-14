@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Sunflowers in a field"
+  group2: "Wheat in a field"
+  purity: 1.0

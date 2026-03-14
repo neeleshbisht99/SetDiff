@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Female ballet dancers in pointe shoes"
+  group2: "Female ballet dancers in ballet slippers"
+  purity: 1.0

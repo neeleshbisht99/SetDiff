@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Portraits painted in cubist style"
+  group2: "Portraits painted in impressionist style"
+  purity: 1.0

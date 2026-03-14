@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Books with hardcover binding"
+  group2: "Books with leather-bound covers"
+  purity: 1.0

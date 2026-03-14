@@ -1,0 +1,19 @@
+Setup:
+1. pip install -r requirements.txt
+2. wandb login
+3. export OPENAI_API_KEY='KEY HERE'
+4. [Optional - Incurs cost] To test openai api: python -m serve.utils_llm
+5. Setup clip
+    5. pip install open-clip-torch flask
+    6. [Start server] python serve/clip_server.py
+    7. To test CLIP:  python -m serve.utils_clip
+6. VLM Server:
+    1. pip install salesforce-lavis
+    2. [Start server]: python serve/vlm_server_blip.py
+    3. To test: python -m serve.utils_vlm
+7. [To run example]: python main.py --config configs/example.yaml
+
+
+Download dataset using:
+curl -L -o visdiff_bench.zip 'https://drive.usercontent.google.com/download?id=1PybUlQOesFIfgAjYlJabsyw5UHf5GOrZ&export=download'
+

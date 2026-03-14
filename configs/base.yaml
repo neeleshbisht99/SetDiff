@@ -1,0 +1,80 @@
+project: VisDiff
+wandb: true # whether to log to wandb
+seed: 0 # random seed
+
+# atmost one can be true, or all can false.
+anti_cca_enabled: false
+bottle_neck_exp: false
+prep_knowledge_bank: false
+anti_cca_with_universal_vocab_enabled: true
+hypo_file: "hypothesis_knowledge_bank.json"
+
+data:
+  root: ./data
+  name: Data # name of dataset
+  group1: "A" # name of group 1
+  group2: "B" # name of group 2
+  purity: 1.0 # how much of each concept is in each group (1.0 means perfect seperation, 0.5 means perfect mix)
+  subset: False # if you want to use a subset of the dataset, set this to name of the desired subset value
+
+captioner:
+  model: blip # model used in method
+  prompt: "Describe this image in detail." # prompt to use
+
+# proposer:  # VLM Proposer
+#   method: VLMProposer  # how to propose hypotheses
+#   model: llava
+#   num_rounds: 3  # number of rounds to propose
+#   num_samples: 20  # number of samples per group to use
+#   sampling_method: random  # how to sample
+#   num_hypotheses: 10  # number of hypotheses to generate per round
+#   prompt: VLM_PROMPT  # prompt to use
+
+proposer: # LLM Proposer
+  method: LLMProposer # how to propose hypotheses
+  model: gpt-4 # model used in method
+  num_rounds: 3 # number of rounds to propose
+  num_samples: 20 # number of samples per group to use
+  sampling_method: random # how to sample
+  num_hypotheses: 10 # number of hypotheses to generate per round
+  prompt: CLIP_FRIENDLY # prompt to use
+
+# proposer:  # VLM Feature Proposer
+#   method: VLMFeatureProposer  # how to propose hypotheses
+#   num_rounds: 3  # number of rounds to propose
+#   num_samples: 20  # number of samples per group to use
+#   sampling_method: random  # how to sample
+#   num_hypotheses: 10  # number of hypotheses to generate per round
+
+ranker: # CLIP Ranker
+  method: CLIPRanker # how to rank hypotheses
+  clip_model: ViT-bigG-14 # clip model to use
+  clip_dataset: laion2b_s39b_b160k # clip dataset to use
+  max_num_samples: 5000 # maximum number of samples to use
+  classify_threshold: 0.3 # threshold for clip classification
+
+# ranker:  # LLM Ranker
+#   method: LLMRanker  # how to rank hypotheses
+#   captioner_model: llava  # captioner to use
+#   captioner_prompt: "describe this image in detail."
+#   model: vicuna  # model used in method
+#   classify_threshold: 0.5  # threshold for clip classification
+
+# ranker:  # VLM Ranker
+#   method: VLMRanker  # how to rank hypotheses
+#   model: llava  # model used in method
+#   classify_threshold: 0.5  # threshold for clip classification
+
+evaluator:
+  method: GPTEvaluator # how to evaluate hypotheses
+  model: gpt-4 # model used in method
+  n_hypotheses: 5 # number of hypotheses to evaluate
+
+differ:
+  # method: AntiCCA
+  method: AntiCCAUniversalVocab
+  clip_model: ViT-bigG-14
+  #test bottleneck
+  model: gpt-4
+  prompt_cls_0: CLS_0_DIFF
+  prompt_cls_1: CLS_1_DIFF

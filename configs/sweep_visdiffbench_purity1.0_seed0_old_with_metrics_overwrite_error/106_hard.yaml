@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Passenger planes in the sky"
+  group2: "Cargo planes in the sky"
+  purity: 1.0

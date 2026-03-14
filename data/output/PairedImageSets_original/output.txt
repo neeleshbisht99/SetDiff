@@ -1,0 +1,4 @@
+Dataset acc@1 acc@5 acc@N
+Easy    0.79   0.97  0.97
+Medium  0.69   0.84  0.84
+Hard    0.52   0.75  0.75

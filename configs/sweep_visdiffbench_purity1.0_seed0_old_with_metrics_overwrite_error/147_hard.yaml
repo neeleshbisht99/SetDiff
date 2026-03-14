@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Basketball players attempting free throws"
+  group2: "Basketball players attempting slam dunks"
+  purity: 1.0

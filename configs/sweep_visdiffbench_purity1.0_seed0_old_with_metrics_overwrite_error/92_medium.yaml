@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Candies made from dark chocolate"
+  group2: "Candies made from milk chocolate"
+  purity: 1.0

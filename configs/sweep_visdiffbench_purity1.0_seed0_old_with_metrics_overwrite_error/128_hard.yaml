@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Orchestras playing Baroque music"
+  group2: "Orchestras playing Classical music"
+  purity: 1.0

@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "People practicing yoga in a mountainous setting"
+  group2: "People meditating in a mountainous setting"
+  purity: 1.0

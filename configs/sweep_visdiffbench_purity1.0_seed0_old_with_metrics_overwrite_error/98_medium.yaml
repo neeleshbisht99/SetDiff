@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Wild horses in American plains"
+  group2: "Wild zebras in African savannahs"
+  purity: 1.0

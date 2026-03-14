@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Cupcakes topped with buttercream"
+  group2: "Cupcakes topped with fondant"
+  purity: 1.0

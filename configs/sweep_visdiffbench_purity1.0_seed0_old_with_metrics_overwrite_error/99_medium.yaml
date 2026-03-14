@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Classic movies in black and white"
+  group2: "Classic movies in Technicolor"
+  purity: 1.0

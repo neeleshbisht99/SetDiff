@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Classic rock bands performing"
+  group2: "Alternative rock bands performing"
+  purity: 1.0

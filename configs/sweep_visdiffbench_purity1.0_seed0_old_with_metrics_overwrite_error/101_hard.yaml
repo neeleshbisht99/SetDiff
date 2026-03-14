@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Butterflies with spotted wings"
+  group2: "Butterflies with striped wings"
+  purity: 1.0

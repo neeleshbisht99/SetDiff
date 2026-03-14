@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Penguins in the snow"
+  group2: "Seals in the snow"
+  purity: 1.0

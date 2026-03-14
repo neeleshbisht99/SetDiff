@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Butter on a slice of bread"
+  group2: "Jam on a slice of bread"
+  purity: 1.0

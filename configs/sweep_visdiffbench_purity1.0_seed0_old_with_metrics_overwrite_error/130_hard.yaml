@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Sculptures from the Renaissance era"
+  group2: "Sculptures from the Hellenistic era"
+  purity: 1.0

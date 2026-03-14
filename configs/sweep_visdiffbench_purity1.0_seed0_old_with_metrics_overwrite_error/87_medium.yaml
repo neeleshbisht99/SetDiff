@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Bengal cat in sitting posture"
+  group2: "Siamese cat in sitting posture"
+  purity: 1.0

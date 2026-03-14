@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "People practicing the Sun Salutation in yoga"
+  group2: "People practicing the Tree Pose in yoga"
+  purity: 1.0

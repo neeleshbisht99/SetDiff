@@ -1,0 +1,9 @@
+
+project: PairedImageSets
+seed: 0  # random seed
+
+data:
+  name: PairedImageSets
+  group1: "Freshwater fish in an aquarium"
+  group2: "Saltwater fish in an aquarium"
+  purity: 1.0
