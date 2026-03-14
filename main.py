@@ -17,8 +17,7 @@ from components.proposer import (
     VLMProposer,
 )
 from components.ranker import CLIPRanker, LLMRanker, NullRanker, VLMRanker
-from components.set_diff import AntiCCA
-from components.set_diff_with_universal_vocab import AntiCCAUniversalVocab
+from components.set_diff import SetDiff
 
 def load_config(config: str) -> Dict:
     base_cfg = OmegaConf.load("configs/base.yaml")

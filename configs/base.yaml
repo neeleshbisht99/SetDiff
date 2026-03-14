@@ -3,10 +3,9 @@ wandb: true # whether to log to wandb
 seed: 0 # random seed
 
 # atmost one can be true, or all can false.
-anti_cca_enabled: false
+set_diff_enabled: false
 bottle_neck_exp: false
 prep_knowledge_bank: false
-anti_cca_with_universal_vocab_enabled: true
 hypo_file: "hypothesis_knowledge_bank.json"
 
 data:
@@ -71,8 +70,7 @@ evaluator:
   n_hypotheses: 5 # number of hypotheses to evaluate
 
 differ:
-  # method: AntiCCA
-  method: AntiCCAUniversalVocab
+  method: SetDiff
   clip_model: ViT-bigG-14
   #test bottleneck
   model: gpt-4
