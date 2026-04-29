@@ -1,14 +1,14 @@
 #%%#
-"""SetDiff Implementation"""
+"""SetDiff core algorithm implementation"""
 """ Import Dependencies """
 import numpy as np
-from sklearn.cross_decomposition import CCA
+import json
+from typing import Dict
+
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics.pairwise import cosine_similarity
-from typing import Dict, List, Tuple
+
 from serve.utils_clip import get_embeddings
-import components.prompts as prompts
-from serve.utils_llm import get_llm_output
+from inverse_cca import InverseCCA
 
 #%%#
 class SetDiff:
@@ -17,12 +17,10 @@ class SetDiff:
     
     def pre_process(self, dataset):
         imgs = []
-        txts = []
         cls_name = dataset[0]['group_name']
         for item in dataset:
             imgs.append(item['path'])
-            txts.append(item['caption'])
-        return imgs, txts, cls_name
+        return imgs, cls_name
 
     def dedup(self, diffs):
         diff_st = set()
@@ -35,78 +33,73 @@ class SetDiff:
         return uniq_diffs
 
 
-    def unstandardize_direction(self, dir_std, scaler_text):
+    # considers both the frequency and similarity score in calculation
+    def enhanced_frequency_filtering(self, class_img_embeds, universal_texts, universal_embeddings, top_k=10, similarity_threshold=0.50, min_threshold=0.25):
         """
-        Convert direction from standardized space back to raw space
-        It rescales a CCA text direction back to the same space as the raw text embeddings, so you can compute cosine similarity against candidate text phrases fairly.
+        For each text embedding, compute its similarity to *all* class images,
+        take the average similarity, then select top-k texts by that average.
         """
-        return dir_std / (scaler_text.scale_ + 1e-12)
 
-    """SetDiff Approach"""
-    def set_diff_analysis(self, images_std, texts_std, text_descriptions, text_embeddings_raw,
-                        scaler_text, n_components=10, seed=0):
-        """
-        Proper implementation of SetDiff with correct pairing
-        """
-        Xs = images_std
-        Ys = texts_std
+        # Normalize (cosine similarity via dot product)
+        class_images_norm = class_img_embeds / (np.linalg.norm(class_img_embeds, axis=1, keepdims=True) + 1e-8)
+        text_embeddings_norm = universal_embeddings / (np.linalg.norm(universal_embeddings, axis=1, keepdims=True) + 1e-8)
 
-        # 2) Choose a safe number of components
-        max_nc = min(n_components, Xs.shape[1], Ys.shape[1], Xs.shape[0]-1, Ys.shape[0]-1)
-        if max_nc < 1:
-            return [], np.array([])
+        # Similarity matrix: (num_images, num_texts)
+        sim_matrix = class_images_norm @ text_embeddings_norm.T
 
-        # 3) Fit CCA
-        cca = CCA(n_components=max_nc, scale=False)
-        Xc, Yc = cca.fit_transform(Xs, Ys)
+        # Average similarity per text: (num_texts,)
+        avg_sims = sim_matrix.mean(axis=0)
 
-        # 4) Per-component correlations
-        cors = np.array([np.corrcoef(Xc[:, i], Yc[:, i])[0, 1] for i in range(max_nc)])
-        order = np.argsort(np.abs(cors))  # SetDiff: smallest |corr| first
+        # Pick top-k by average similarity
+        k = min(top_k, len(universal_texts))
+        top_indices = np.argsort(avg_sims)[-k:][::-1]
 
-        # 5) Take least-correlated text directions, map to the same class texts
-        Y_dirs_std = cca.y_rotations_[:, order]
-        results = []
-        
-        for rank_k in range(min(20, Y_dirs_std.shape[1])):
-            dir_std = Y_dirs_std[:, rank_k]
-            # Map direction back to raw text space
-            dir_raw = self.unstandardize_direction(dir_std, scaler_text)
-            dir_raw = dir_raw / (np.linalg.norm(dir_raw) + 1e-12)
+        filtered_texts = [{"text": universal_texts[i], "score": float(avg_sims[i])} for i in top_indices]
+        filtered_embeddings = universal_embeddings[top_indices]
 
-            # Find closest text description from the same class used in CCA
-            # Use the raw text embeddings that were standardized for this class
-            sims = cosine_similarity([dir_raw], text_embeddings_raw)[0]
-            j = np.argmax(sims)
-            comp_idx = order[rank_k]
+        return filtered_texts, filtered_embeddings
 
-            results.append({
-                "component": comp_idx,
-                "correlation": cors[comp_idx],
-                "text": text_descriptions[j],
-                "similarity": sims[j]
-            })
-        
-        return results, cors
 
-    def get_differences(self, class0_dataset, class1_dataset):
+    def get_differences(self, class0_dataset, class1_dataset, seed):
         #extract images and text
-        class0_imgs, class0_txts, cls0_name = self.pre_process(class0_dataset)
-        class1_imgs, class1_txts, cls1_name = self.pre_process(class1_dataset)
+        class0_imgs, cls0_name = self.pre_process(class0_dataset)
+        class1_imgs, cls1_name = self.pre_process(class1_dataset)
 
         #extract embeddings
         class0_img_embeds = get_embeddings(
             class0_imgs, self.args["clip_model"], "image"
         )
-        class0_txt_embeds = get_embeddings(class0_txts, self.args["clip_model"], "text")
-
         class1_img_embeds = get_embeddings(
             class1_imgs, self.args["clip_model"], "image"
         )
-        class1_txt_embeds = get_embeddings(class1_txts, self.args["clip_model"], "text")
+        knowledge_bank_filepath = self.args["knowledge_bank_filepath"]
+        # Load universal vocabulary
+        with open(knowledge_bank_filepath, 'r') as f:
+            universal_data = json.load(f)
+        universal_texts = list(set(universal_data))
+
+        universal_text_embeddings = get_embeddings(
+            universal_texts, self.args["clip_model"], "text"
+        )
+
+        """Filter vocabulary for each class"""
+        class0_txts_objs, class0_txt_embeds = self.enhanced_frequency_filtering(
+            class0_img_embeds, universal_texts, universal_text_embeddings, top_k=20, similarity_threshold=0.75
+        )
+        class0_txts = [obj['text'] for obj in class0_txts_objs]
+        class0_txts_score_mp = {obj['text']:obj['score'] for obj in class0_txts_objs}
+        class0_sim_scores = [obj['score'] for obj in class0_txts_objs]
+
+        class1_txts_objs, class1_txt_embeds = self.enhanced_frequency_filtering(
+            class1_img_embeds, universal_texts, universal_text_embeddings, top_k=20, similarity_threshold=0.75
+        )
+        class1_txts = [obj['text'] for obj in class1_txts_objs]
+        class1_txts_score_mp = {obj['text']:obj['score'] for obj in class1_txts_objs}
+        class1_sim_scores = [obj['score'] for obj in class1_txts_objs]
 
         scaler_img_cls0 = StandardScaler()
         scaler_img_cls1 = StandardScaler()
+
         scaler_txt_cls0 = StandardScaler()
         scaler_txt_cls1 = StandardScaler()
 
@@ -118,30 +111,55 @@ class SetDiff:
         class0_texts_std = scaler_txt_cls0.fit_transform(class0_txt_embeds)
         class1_texts_std = scaler_txt_cls1.fit_transform(class1_txt_embeds)
 
-
+        alpha = 0.3
+        inverse_cca_args = self.args["inverse_cca"]
+        inverse_cca = InverseCCA(inverse_cca_args)
         # Analyze both mismatch cases
-        print(f"Analyzing {cls1_name} Images vs {cls0_name} Text...")
-        cls1_vs_cls0, cors1 = self.set_diff_analysis(
+        cls0_vs_cls1, _ = inverse_cca.inverse_cca_analysis(
             class1_images_std, class0_texts_std, 
             class0_txts, class0_txt_embeds,
-            scaler_txt_cls0
+            scaler_txt_cls0, seed=seed
         )
 
-        print(f"Analyzing {cls0_name} Images vs {cls1_name} Text...")
-        cls0_vs_cls1, cors2 = self.set_diff_analysis(
+        cls0_min_sim_score = min(class0_sim_scores)
+        cls0_max_sim_score = max(class0_sim_scores)
+        for obj in cls0_vs_cls1:
+            txt = obj['text']
+            anti_corr = 1.0 - abs(obj["correlation"])
+            class0_txt_sim_score = class0_txts_score_mp[txt]
+            class0_txt_sim_score_norm = (class0_txt_sim_score - cls0_min_sim_score) / (cls0_max_sim_score - cls0_min_sim_score + 1e-8)
+            obj['sim_score'] = class0_txt_sim_score_norm
+            obj['inv_corr_score'] = anti_corr
+            obj['inv_diff_score'] = alpha*class0_txt_sim_score_norm + ((1-alpha)*anti_corr)
+
+        cls1_vs_cls0, _ = inverse_cca.inverse_cca_analysis(
             class0_images_std, class1_texts_std,
             class1_txts, class1_txt_embeds,
-            scaler_txt_cls1
+            scaler_txt_cls1, seed=seed
         )
 
+        cls1_min_sim_score = min(class1_sim_scores)
+        cls1_max_sim_score = max(class1_sim_scores)
+        for obj in cls1_vs_cls0:
+            txt = obj['text']
+            anti_corr = 1.0 - abs(obj["correlation"])
+            class1_txt_sim_score = class1_txts_score_mp[txt]
+            class1_txt_sim_score_norm = (class1_txt_sim_score - cls1_min_sim_score) / (cls1_max_sim_score - cls1_min_sim_score + 1e-8)
+            obj['sim_score'] = class1_txt_sim_score_norm
+            obj['inv_corr_score'] = anti_corr
+            obj['inv_diff_score'] = alpha*class1_txt_sim_score_norm + ((1-alpha)*anti_corr)
+
         # Sort by absolute correlation (lowest first)
-        # print(f"\nFeatures from {cls0_name} texts that are distinctive to {cls0_name} (not seen in {cls1_name} images):")
-        cls1_vs_cls0.sort(key=lambda x: abs(x['correlation']))
-        # print(f"\nFeatures from {cls1_name} texts that are distinctive to {cls1_name} (not seen in {cls0_name} images):")
-        cls0_vs_cls1.sort(key=lambda x: abs(x['correlation']))
-        
-        cls0_diffs = self.dedup(cls1_vs_cls0) # distinctive for cls0
-        cls1_diffs = self.dedup(cls0_vs_cls1) # distinctive for cls1
+        cls0_vs_cls1.sort(key=lambda x: x['inv_diff_score'], reverse=True)
+        cls1_vs_cls0.sort(key=lambda x: x['inv_diff_score'], reverse=True)
+
+        final_keys = ['text', 'sim_score', 'inv_corr_score', 'inv_diff_score']
+        cls0_diffs = [{
+            key: obj.get(key) for key in final_keys
+        } for obj in cls0_vs_cls1]
+        cls1_diffs = [{
+            key: obj.get(key) for key in final_keys
+        } for obj in cls1_vs_cls0]
 
         return cls0_diffs, cls0_name, cls1_diffs, cls1_name
 

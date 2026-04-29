@@ -1,0 +1,924 @@
+group_name,path
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/16.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/40.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/63.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/71.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/94.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/113.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/116.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/128.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/129.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/130.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/131.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/138.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/143.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/147.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/158.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/163.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/165.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/166.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/173.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/175.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/181.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/184.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/194.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/197.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/206.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/209.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/214.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/225.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/238.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/249.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/256.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/262.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/263.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/266.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/273.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/275.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/281.png
+Clear lungs with no acute abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/293.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/28.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/29.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/31.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/44.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/54.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/99.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/101.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/115.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/142.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/161.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/167.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/170.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/171.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/201.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/218.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/222.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/231.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/277.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/304.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/306.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/314.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/318.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/326.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/327.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/329.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/347.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/373.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/376.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/389.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/391.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/393.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/424.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/446.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/447.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/462.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/465.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/513.png
+Diffuse bilateral lung opacities,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/527.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/48.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/50.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/90.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/213.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/302.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/305.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/363.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/395.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/401.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/413.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/419.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/439.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/456.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/488.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/494.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/545.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/559.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/585.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/593.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/596.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/653.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/829.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/842.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/894.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/913.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/922.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/986.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/987.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1079.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1169.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1216.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1242.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1275.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1353.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1431.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1522.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1523.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1531.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1544.png
+Localized lung opacity,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1673.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/38.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/55.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/60.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/65.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/103.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/124.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/152.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/168.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/202.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/210.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/220.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/232.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/250.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/267.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/269.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/276.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/278.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/291.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/292.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/317.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/321.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/328.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/384.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/398.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/422.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/438.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/452.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/477.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/503.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/528.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/540.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/541.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/542.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/555.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/561.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/571.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/581.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/586.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/597.png
+Enlarged cardiac silhouette and Large heart,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/598.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/24.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/26.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/32.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/57.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/62.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/96.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/97.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/105.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/146.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/172.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/183.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/185.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/190.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/195.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/212.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/230.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/242.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/244.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/254.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/255.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/260.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/341.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/342.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/344.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/385.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/476.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/506.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/512.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/515.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/519.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/569.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/616.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/639.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/658.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/659.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/669.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/676.png
+Pleural fluid at the lung bases,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/718.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/33.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/148.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/198.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/199.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/241.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/280.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/355.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/443.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/493.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/520.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/570.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/572.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/575.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/621.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/625.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/657.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/665.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/684.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/685.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/686.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/695.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/762.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/859.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/861.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/882.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/883.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1290.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1372.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1374.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1421.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1567.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1569.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1570.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1771.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1790.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1924.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2067.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2165.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2385.png
+Air in the pleural space with absent lung markings,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2412.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/15.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/19.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/20.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/21.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/23.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/30.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/34.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/35.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/36.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/37.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/39.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/41.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/42.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/43.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/45.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/47.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/49.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/56.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/58.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/66.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/67.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/68.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/69.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/72.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/73.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/74.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/75.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/76.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/77.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/78.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/79.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/81.png
+Medical tubes or implanted devices present,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/83.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/0.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/17.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/27.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/52.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/59.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/61.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/64.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/84.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/106.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/117.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/137.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/169.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/192.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/208.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/219.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/229.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/253.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/265.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/282.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/300.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/313.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/315.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/337.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/338.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/339.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/345.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/370.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/372.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/396.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/405.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/408.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/430.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/433.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/436.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/442.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/444.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/445.png
+Post-surgical changes of the chest,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/517.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/46.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/53.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/70.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/80.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/82.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/86.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/95.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/102.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/120.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/121.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/123.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/132.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/144.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/150.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/188.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/189.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/196.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/215.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/223.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/228.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/237.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/251.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/268.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/285.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/299.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/308.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/316.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/324.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/334.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/349.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/350.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/354.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/367.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/377.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/382.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/397.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/406.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/416.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/421.png
+Reduced lung volume due to atelectasis,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/429.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/125.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/252.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/264.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/689.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1109.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1119.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1137.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1210.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1229.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1243.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1385.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1399.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1611.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1884.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1885.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2188.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2223.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2236.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2273.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2282.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2447.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2486.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2744.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2753.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2800.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2870.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2886.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2887.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2900.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3102.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3103.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3230.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3422.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3595.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3644.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3649.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3721.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3747.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3755.png
+Hyperinflated lungs with increased lung volume,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3877.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/149.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/356.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/584.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/683.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/694.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/900.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1078.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1286.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1288.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1461.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2270.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2271.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2272.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2292.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2600.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2952.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2988.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3291.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3342.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3596.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4238.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4243.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4654.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4755.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5238.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5849.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6173.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6485.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6673.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6715.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6802.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6804.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7016.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7140.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7164.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7181.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7463.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7470.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7711.png
+Chest wall or rib abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7886.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1005.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1168.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1645.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1797.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1870.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1902.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2150.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3120.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3415.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3855.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4032.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4445.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4881.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4981.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5509.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6050.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6080.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6481.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6498.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6602.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6646.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6815.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8237.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8728.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8852.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8956.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8978.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8987.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9115.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9116.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9358.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9392.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9393.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9992.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10174.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10325.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11793.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13030.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13196.png
+Abnormal widening or contour of the mediastinum,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13301.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/164.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/176.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/608.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1065.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1289.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1638.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1685.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2118.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2596.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2668.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2898.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3072.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3296.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4071.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4321.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4361.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4366.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4488.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4536.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4618.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4622.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4779.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4798.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5079.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5495.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5513.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5701.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5924.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6558.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6657.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6991.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7139.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7415.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7933.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8035.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8070.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8199.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8209.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8293.png
+Elevation of hemidiaphragm,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8367.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/162.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1014.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1347.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2203.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2568.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3074.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3075.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3076.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3508.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3670.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3874.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4746.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4747.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4998.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5058.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5100.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5840.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5895.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5904.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6893.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7313.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7947.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7984.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8317.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8627.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8679.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9174.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9593.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9982.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10393.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10853.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10945.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11397.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11777.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11865.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11955.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12246.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12894.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12992.png
+Upper-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13063.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/51.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/307.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/383.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/423.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/521.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/620.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/727.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/971.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1054.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1110.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1125.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1240.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1252.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1334.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1357.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1474.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1614.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1851.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2045.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2046.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2053.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2069.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2144.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2169.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2425.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2446.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2450.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2532.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2576.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2757.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2767.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2821.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2882.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2928.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3081.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3108.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3233.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3278.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3347.png
+Lower-lobe-predominant lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3363.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/284.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/323.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/458.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/580.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/660.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/679.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1108.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1211.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1513.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1653.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1712.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1958.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2042.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2071.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2259.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2463.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2524.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2527.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2649.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2764.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2956.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3063.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3106.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3184.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3190.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3739.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3850.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3853.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3858.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3917.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4207.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4423.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4425.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4812.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5815.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5929.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5997.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6018.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6020.png
+Interstitial lung disease with reticular pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6385.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/854.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1540.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1715.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3778.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4802.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7369.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7453.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8069.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8963.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9175.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9710.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10529.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12318.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/15541.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/15716.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/16459.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/16512.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/17904.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18985.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/21987.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22239.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22248.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22402.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/23853.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/24854.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25158.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25224.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/26590.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/27505.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/28046.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/28103.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/28104.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/28166.png
+Ground-glass opacity pattern,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/30167.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/309.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/872.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/923.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1043.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1404.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1418.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1519.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1738.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1756.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1841.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1842.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1968.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2328.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2330.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2721.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3134.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3135.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3198.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3295.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3357.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3737.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4160.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4481.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4736.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4786.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4835.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5563.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5962.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5964.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6063.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6211.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6401.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6424.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6520.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6610.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6625.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6921.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6942.png
+Pulmonary nodules or lung mass,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7065.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/343.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/394.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/489.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/647.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/667.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/906.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1153.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1199.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1625.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1707.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1791.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1932.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2115.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2141.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2161.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2164.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2250.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2363.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2476.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2734.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2802.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3152.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3182.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3214.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3311.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3547.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3655.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3949.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4236.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4670.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4924.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5053.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5170.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5207.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5428.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6058.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6135.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6233.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6240.png
+Unilateral lung abnormality,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6369.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6299.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9998.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10012.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11628.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11983.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13774.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14032.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18507.png
+Asymmetric lung volumes,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/29987.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/145.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1877.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2283.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3016.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3350.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4016.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5006.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5537.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5955.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7001.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10812.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11552.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12416.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13359.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14074.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14294.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14411.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14945.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/16646.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/16866.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/17242.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/17371.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18117.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18643.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18668.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/19907.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/20110.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/20291.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/20919.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/21143.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/21222.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22703.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/24517.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/24753.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25181.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25395.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25902.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/27222.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/27623.png
+Apical pleural thickening or scarring,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/29756.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/104.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/455.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1025.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1483.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2449.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3252.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3773.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4219.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4353.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4435.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4777.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5583.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5923.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6587.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7507.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7843.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7946.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8871.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8970.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9006.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9074.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9126.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9240.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9692.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9715.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9876.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10404.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10607.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11342.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11566.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11828.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12167.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12282.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12387.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12803.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12961.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13148.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13684.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13984.png
+Costophrenic angle abnormality without large effusion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14082.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/235.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/753.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/864.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3351.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3353.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3779.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4589.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4645.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5138.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5324.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5326.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5328.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6076.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/6871.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8073.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8137.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9048.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10140.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10290.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11933.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12041.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12209.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14786.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/17243.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/17362.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/17844.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18019.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18236.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18695.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/19210.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/20982.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22216.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/23092.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25392.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/26125.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/26151.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/27123.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/27752.png
+Mediastinal or tracheal shift,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/28126.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/759.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1449.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/1533.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2251.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/2711.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/3248.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/4333.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5118.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5119.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5726.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/5947.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7151.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/7314.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/8945.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9002.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9169.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/9573.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/10530.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/11017.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/12242.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13727.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/13867.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14013.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14329.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/14591.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/15826.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/16987.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/17154.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/18509.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/19984.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/21210.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22272.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22273.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22297.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/22598.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25127.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25128.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25253.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25365.png
+Focal lucency or cavitary lung lesion,/shared/scratch/0/home/v_neelesh_bisht/projects/InvDiff/data/datasets/mimic_cxr_imagesets/images/25385.png
