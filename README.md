@@ -37,4 +37,7 @@ After that, you should see the following results in [wandb](https://wandb.ai/nee
 For all the runs visit here: https://wandb.ai/neel-idl/projects
 
 ## Preliminary Implemenation of SetDiff:
-Most of the core implementation lies here [set_diff.py](https://github.com/neeleshbisht99/SetDiff/blob/main/components/set_diff.py).
+Most of the core implementation lies here 
+1. [set_diff.py](https://github.com/neeleshbisht99/SetDiff/blob/main/components/set_diff.py).
+2. [inverse_cca.py](https://github.com/neeleshbisht99/SetDiff/blob/main/components/inverse_cca.py)
+
