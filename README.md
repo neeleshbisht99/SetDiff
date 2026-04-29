@@ -31,9 +31,10 @@ After that, you should see the following results in [wandb](https://wandb.ai/nee
 
 
 ## Example Runs for VisDiff and SetDiff Pipeline:
-1. VisDiff: https://wandb.ai/neel-idl/VisDiff
+1. Single example of VisDiff run: https://wandb.ai/neel-idl/Example-VisDiff
+2. Single example of SetDiff run: https://wandb.ai/neel-idl/Example-SetDiff
 
-2. SetDiff:  https://wandb.ai/neel-idl/SetDiff
+For all the runs visit here: https://wandb.ai/neel-idl/projects
 
 ## Preliminary Implemenation of SetDiff:
 Most of the core implementation lies here [set_diff.py](https://github.com/neeleshbisht99/SetDiff/blob/main/components/set_diff.py).
